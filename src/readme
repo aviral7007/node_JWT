@@ -1,0 +1,6 @@
+API: JSON(http), Type of API: REST
+Payload: data-format for the body-JSON type, autorization header-bearer token
+
+Start project: run the server
+In the postman post the data with json type in the body ,token will b generated.
+use the token for authorization with token header as bearer
